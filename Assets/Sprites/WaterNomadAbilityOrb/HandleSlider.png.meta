@@ -1,0 +1,3020 @@
+fileFormatVersion: 2
+guid: 6099ca2adefc26a448b1636a4b2acc15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7263107713860512360
+    second: WaterHandle_00000
+  - first:
+      213: -548178451111432511
+    second: WaterHandle_00001
+  - first:
+      213: -3799650706265657267
+    second: WaterHandle_00002
+  - first:
+      213: -3441965285957522716
+    second: WaterHandle_00003
+  - first:
+      213: -3434004405932504604
+    second: WaterHandle_00004
+  - first:
+      213: -6415586433923962995
+    second: WaterHandle_00005
+  - first:
+      213: 7677156768096058181
+    second: WaterHandle_00006
+  - first:
+      213: 161245919626558941
+    second: WaterHandle_00007
+  - first:
+      213: -3678403856422056041
+    second: WaterHandle_00008
+  - first:
+      213: -4155433961181933251
+    second: WaterHandle_00009
+  - first:
+      213: -2770161026077950151
+    second: WaterHandle_00010
+  - first:
+      213: 4293652997507105827
+    second: WaterHandle_00011
+  - first:
+      213: 6849526016197918884
+    second: WaterHandle_00012
+  - first:
+      213: 4110045024172425565
+    second: WaterHandle_00013
+  - first:
+      213: -7319160549376339258
+    second: WaterHandle_00014
+  - first:
+      213: 4980943866720813582
+    second: WaterHandle_00015
+  - first:
+      213: -3010683687000262028
+    second: WaterHandle_00016
+  - first:
+      213: -8249875507744979904
+    second: WaterHandle_00017
+  - first:
+      213: 6382362937473438892
+    second: WaterHandle_00018
+  - first:
+      213: -3964137547806130352
+    second: WaterHandle_00019
+  - first:
+      213: 75447523736415222
+    second: WaterHandle_00020
+  - first:
+      213: 3042526264335786937
+    second: WaterHandle_00021
+  - first:
+      213: 4477775692351335735
+    second: WaterHandle_00022
+  - first:
+      213: -8111786216203406365
+    second: WaterHandle_00023
+  - first:
+      213: 5442503509632787977
+    second: WaterHandle_00024
+  - first:
+      213: 7214170165295177986
+    second: WaterHandle_00025
+  - first:
+      213: -6442442756368103966
+    second: WaterHandle_00026
+  - first:
+      213: -9144044549098184650
+    second: WaterHandle_00027
+  - first:
+      213: -8010551028605338250
+    second: WaterHandle_00028
+  - first:
+      213: 5229415285244882323
+    second: WaterHandle_00029
+  - first:
+      213: 8968905547135146043
+    second: WaterHandle_00030
+  - first:
+      213: 6707739052421960431
+    second: WaterHandle_00031
+  - first:
+      213: 1876204410134824148
+    second: WaterHandle_00032
+  - first:
+      213: -1250824857216902062
+    second: WaterHandle_00033
+  - first:
+      213: -7709936610936287790
+    second: WaterHandle_00034
+  - first:
+      213: 3781236915644329675
+    second: WaterHandle_00035
+  - first:
+      213: -526350751893784955
+    second: WaterHandle_00036
+  - first:
+      213: -7514592872204198940
+    second: WaterHandle_00037
+  - first:
+      213: -2350212494199179803
+    second: WaterHandle_00038
+  - first:
+      213: -3253200240421603210
+    second: WaterHandle_00039
+  - first:
+      213: 7801203033641472490
+    second: WaterHandle_00040
+  - first:
+      213: 2228668244633650934
+    second: WaterHandle_00041
+  - first:
+      213: -6039375002730525532
+    second: WaterHandle_00042
+  - first:
+      213: 2997022401246710337
+    second: WaterHandle_00043
+  - first:
+      213: 3692714627279488843
+    second: WaterHandle_00044
+  - first:
+      213: -7023478981841637188
+    second: WaterHandle_00045
+  - first:
+      213: 4718541735448023667
+    second: WaterHandle_00046
+  - first:
+      213: 1069494638160428613
+    second: WaterHandle_00047
+  - first:
+      213: -5954564222814228559
+    second: WaterHandle_00048
+  - first:
+      213: -8841134278194338841
+    second: WaterHandle_00049
+  - first:
+      213: -5839722071068424404
+    second: WaterHandle_00050
+  - first:
+      213: -4364343277302954185
+    second: WaterHandle_00051
+  - first:
+      213: 4556561299288016369
+    second: WaterHandle_00052
+  - first:
+      213: 8900678837951287387
+    second: WaterHandle_00053
+  - first:
+      213: -4691571071010199880
+    second: WaterHandle_00054
+  - first:
+      213: 5283791859939330324
+    second: WaterHandle_00055
+  - first:
+      213: 5643580319141171998
+    second: WaterHandle_00056
+  - first:
+      213: -4878319567581299467
+    second: WaterHandle_00057
+  - first:
+      213: 7198110033553351687
+    second: WaterHandle_00058
+  - first:
+      213: 2061059271698912540
+    second: WaterHandle_00059
+  - first:
+      213: 3510336013092047636
+    second: WaterHandle_00060
+  - first:
+      213: -5377343772050176787
+    second: WaterHandle_00061
+  - first:
+      213: -5069993150750472562
+    second: WaterHandle_00062
+  - first:
+      213: -6925326594903987975
+    second: WaterHandle_00063
+  - first:
+      213: 2058014244924204950
+    second: WaterHandle_00064
+  - first:
+      213: -82604425466814657
+    second: WaterHandle_00065
+  - first:
+      213: 9125532653127534666
+    second: WaterHandle_00066
+  - first:
+      213: -4705285962036142260
+    second: WaterHandle_00067
+  - first:
+      213: -8859402009579171383
+    second: WaterHandle_00068
+  - first:
+      213: -7540879392539113311
+    second: WaterHandle_00069
+  - first:
+      213: 8376870829031187471
+    second: WaterHandle_00070
+  - first:
+      213: 620512460479351804
+    second: WaterHandle_00071
+  - first:
+      213: 405476549121578638
+    second: WaterHandle_00072
+  - first:
+      213: 8565797008562994605
+    second: WaterHandle_00073
+  - first:
+      213: 2411228380901153080
+    second: WaterHandle_00074
+  - first:
+      213: 4211988926152889127
+    second: WaterHandle_00075
+  - first:
+      213: -1539033322467343481
+    second: WaterHandle_00076
+  - first:
+      213: 6266240558480113812
+    second: WaterHandle_00077
+  - first:
+      213: -6182267203881408805
+    second: WaterHandle_00078
+  - first:
+      213: 6269672521727808881
+    second: WaterHandle_00079
+  - first:
+      213: -3732715281084033688
+    second: WaterHandle_00080
+  - first:
+      213: -5218356336112409548
+    second: WaterHandle_00081
+  - first:
+      213: 5479275211304517281
+    second: WaterHandle_00082
+  - first:
+      213: -8566120386024597486
+    second: WaterHandle_00083
+  - first:
+      213: 6295739489142724871
+    second: WaterHandle_00084
+  - first:
+      213: 6793573070028177689
+    second: WaterHandle_00085
+  - first:
+      213: 6662128650510839804
+    second: WaterHandle_00086
+  - first:
+      213: -7571986899547972969
+    second: WaterHandle_00087
+  - first:
+      213: 8800929943597082524
+    second: WaterHandle_00088
+  - first:
+      213: 8047972936419949287
+    second: WaterHandle_00089
+  - first:
+      213: -6786254950077162130
+    second: WaterHandle_00090
+  - first:
+      213: 1755377562182484941
+    second: WaterHandle_00091
+  - first:
+      213: -705410622403916907
+    second: WaterHandle_00092
+  - first:
+      213: -6798935999317797864
+    second: WaterHandle_00093
+  - first:
+      213: 428180470046385386
+    second: WaterHandle_00094
+  - first:
+      213: 5962914076418776536
+    second: WaterHandle_00095
+  - first:
+      213: 9042854501362689023
+    second: WaterHandle_00096
+  - first:
+      213: 1238324579571151571
+    second: WaterHandle_00097
+  - first:
+      213: 5129453455733211537
+    second: WaterHandle_00098
+  - first:
+      213: -2793780880026382976
+    second: WaterHandle_00099
+  - first:
+      213: -7297672152006826535
+    second: WaterHandle_00100
+  - first:
+      213: -4946648580503883834
+    second: WaterHandle_00101
+  - first:
+      213: -2097943038881663159
+    second: WaterHandle_00102
+  - first:
+      213: 7567645226294412982
+    second: WaterHandle_00103
+  - first:
+      213: -4049580098823583618
+    second: WaterHandle_00104
+  - first:
+      213: 4967465179123980685
+    second: WaterHandle_00105
+  - first:
+      213: -8315768422639423752
+    second: WaterHandle_00106
+  - first:
+      213: 4145984549933937715
+    second: WaterHandle_00107
+  - first:
+      213: -2340368170150895124
+    second: WaterHandle_00108
+  - first:
+      213: 3552984409314277388
+    second: WaterHandle_00109
+  - first:
+      213: -3472604424313866543
+    second: WaterHandle_00110
+  - first:
+      213: 4210092544805493992
+    second: WaterHandle_00111
+  - first:
+      213: 591590358308849612
+    second: WaterHandle_00112
+  - first:
+      213: -8791658585040608897
+    second: WaterHandle_00113
+  - first:
+      213: -6718705110314450503
+    second: WaterHandle_00114
+  - first:
+      213: 3171088818977865253
+    second: WaterHandle_00115
+  - first:
+      213: -9045237657519691859
+    second: WaterHandle_00116
+  - first:
+      213: 983979652338014562
+    second: WaterHandle_00117
+  - first:
+      213: 3070890266315255598
+    second: WaterHandle_00118
+  - first:
+      213: -2299454484255683967
+    second: WaterHandle_00119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterHandle_00000
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1846
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895d1fd0402443b90800000000000000
+      internalID: -7263107713860512360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00001
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1796
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceaaf36a9a7468f0800000000000000
+      internalID: -548178451111432511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00002
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1747
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40397660dde44bc0800000000000000
+      internalID: -3799650706265657267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00003
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1747
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaa6490fceab30d0800000000000000
+      internalID: -3441965285957522716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9444bdf27f750d0800000000000000
+      internalID: -3434004405932504604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00005
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87a52c212247f6a0800000000000000
+      internalID: -6415586433923962995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00006
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1796
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bf95fb76dba8a60800000000000000
+      internalID: 7677156768096058181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd72d04f4cdc3200800000000000000
+      internalID: 161245919626558941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00008
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f498d7e2fa3fcc0800000000000000
+      internalID: -3678403856422056041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00009
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31182824dee456c0800000000000000
+      internalID: -4155433961181933251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ffdf549396e89d0800000000000000
+      internalID: -2770161026077950151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00011
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1998
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324c33907ae169b30800000000000000
+      internalID: 4293652997507105827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00012
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1998
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a006431f976e0f50800000000000000
+      internalID: 6849526016197918884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00013
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51c8ac6c20d90930800000000000000
+      internalID: 4110045024172425565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00014
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1649
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2de58424e1d6a90800000000000000
+      internalID: -7319160549376339258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00015
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e020e0e7e0edf1540800000000000000
+      internalID: 4980943866720813582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1600
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a39415327e736d0800000000000000
+      internalID: -3010683687000262028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00017
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1600
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0444aa77fed828d80800000000000000
+      internalID: -8249875507744979904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00018
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca419b3c645b29850800000000000000
+      internalID: 6382362937473438892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00019
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f3a3637ed8cf8c0800000000000000
+      internalID: -3964137547806130352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00020
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbed738f1b0c0100800000000000000
+      internalID: 75447523736415222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1552
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3e7857489393a20800000000000000
+      internalID: 3042526264335786937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00022
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1552
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dea769441442e30800000000000000
+      internalID: 4477775692351335735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00023
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e339491a652d6f80800000000000000
+      internalID: -8111786216203406365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00024
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906aa7c3b18a78b40800000000000000
+      internalID: 5442503509632787977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00025
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1947
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201e3a30b81ed1460800000000000000
+      internalID: 7214170165295177986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00026
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1947
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e504e45278d796a0800000000000000
+      internalID: -6442442756368103966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00027
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e7a80ee3d91180800000000000000
+      internalID: -9144044549098184650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00028
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67db6dcf74ec4d090800000000000000
+      internalID: -8010551028605338250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00029
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39de40cce7d929840800000000000000
+      internalID: 5229415285244882323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3855096314f77c70800000000000000
+      internalID: 8968905547135146043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00031
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe250a9012da61d50800000000000000
+      internalID: 6707739052421960431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00032
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d48b1078fd990a10800000000000000
+      internalID: 1876204410134824148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c9b556b6d24aee0800000000000000
+      internalID: -1250824857216902062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00034
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0d58508dc00590800000000000000
+      internalID: -7709936610936287790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1504
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcee290e0f6a97430800000000000000
+      internalID: 3781236915644329675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00036
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1504
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5867c16a7c602b8f0800000000000000
+      internalID: -526350751893784955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00037
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb1694c89dc6b790800000000000000
+      internalID: -7514592872204198940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00038
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5b290403e526fd0800000000000000
+      internalID: -2350212494199179803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00039
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67874761e9f4ad2d0800000000000000
+      internalID: -3253200240421603210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00040
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1698
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae156e893d0734c60800000000000000
+      internalID: 7801203033641472490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00041
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1456
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60593e5f1ddee10800000000000000
+      internalID: 2228668244633650934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00042
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1698
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac8fd8de64df2ca0800000000000000
+      internalID: -6039375002730525532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00043
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ac23abeff879920800000000000000
+      internalID: 2997022401246710337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00044
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 881
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4702ef73682f3330800000000000000
+      internalID: 3692714627279488843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00045
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 882
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb038e7f317978e90800000000000000
+      internalID: -7023478981841637188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00046
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1456
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3721c3f55b0ab7140800000000000000
+      internalID: 4718541735448023667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00047
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ebcbcf4bb97de00800000000000000
+      internalID: 1069494638160428613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00048
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf68e253632d5da0800000000000000
+      internalID: -5954564222814228559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00049
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e362b0673bfd4580800000000000000
+      internalID: -8841134278194338841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00050
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2745fe67b325fea0800000000000000
+      internalID: -5839722071068424404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00051
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374e7e99ecbe63c0800000000000000
+      internalID: -4364343277302954185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00052
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1408
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5ca592c582c3f30800000000000000
+      internalID: 4556561299288016369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00053
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1896
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b505cebce30958b70800000000000000
+      internalID: 8900678837951287387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00054
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b620f9c7f034eeb0800000000000000
+      internalID: -4691571071010199880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00055
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1896
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419c8cea3bcc35940800000000000000
+      internalID: 5283791859939330324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00056
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e139bc73666025e40800000000000000
+      internalID: 5643580319141171998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00057
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcba71233abc4cb0800000000000000
+      internalID: -4878319567581299467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00058
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7046f1430f2d4e360800000000000000
+      internalID: 7198110033553351687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00059
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1845
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1593a6dc7a5a9c10800000000000000
+      internalID: 2061059271698912540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00060
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1408
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bcc9e510837b030800000000000000
+      internalID: 3510336013092047636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00061
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de44ac76456df55b0800000000000000
+      internalID: -5377343772050176787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00062
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86cad36714c3a9b0800000000000000
+      internalID: -5069993150750472562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00063
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8ae25672c44ef90800000000000000
+      internalID: -6925326594903987975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00064
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1360
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697a66b4d098f8c10800000000000000
+      internalID: 2058014244924204950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00065
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1360
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fdc2376b78adef0800000000000000
+      internalID: -82604425466814657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00066
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4805ef499764ae70800000000000000
+      internalID: 9125532653127534666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00067
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f1432e85773beb0800000000000000
+      internalID: -4705285962036142260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00068
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1d6a8bfc41d0580800000000000000
+      internalID: -8859402009579171383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00069
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1312
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a884a1552a695790800000000000000
+      internalID: -7540879392539113311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00070
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1312
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f046cbde2af904470800000000000000
+      internalID: 8376870829031187471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00071
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb43919bc08c9800800000000000000
+      internalID: 620512460479351804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00072
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86942be5ca80a500800000000000000
+      internalID: 405476549121578638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00073
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad3089eef2dfd670800000000000000
+      internalID: 8565797008562994605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00074
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1264
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83914fbef67667120800000000000000
+      internalID: 2411228380901153080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00075
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1264
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723d83dbc9df37a30800000000000000
+      internalID: 4211988926152889127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00076
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78348dce85144aae0800000000000000
+      internalID: -1539033322467343481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00077
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904a55869826f650800000000000000
+      internalID: 6266240558480113812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00078
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6e91eabbc243aa0800000000000000
+      internalID: -6182267203881408805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00079
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1216
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751d9bb0f9520750800000000000000
+      internalID: 6269672521727808881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00080
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86550578a3bb23cc0800000000000000
+      internalID: -3732715281084033688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00081
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4346c927f8ca497b0800000000000000
+      internalID: -5218356336112409548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00082
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeb86436cb4a0c40800000000000000
+      internalID: 5479275211304517281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00083
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21895c7e4e60f1980800000000000000
+      internalID: -8566120386024597486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00084
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1168
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70950c885b5fe5750800000000000000
+      internalID: 6295739489142724871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00085
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1168
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91180ba96be974e50800000000000000
+      internalID: 6793573070028177689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00086
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffa6adc5b2a47c50800000000000000
+      internalID: 6662128650510839804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00087
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a18807806eae690800000000000000
+      internalID: -7571986899547972969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00088
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97e335872f232a70800000000000000
+      internalID: 8800929943597082524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00089
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1120
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eab445eeb420bf60800000000000000
+      internalID: 8047972936419949287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00090
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1120
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d1a69f31162d1a0800000000000000
+      internalID: -6786254950077162130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00091
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc30498a79a5c5810800000000000000
+      internalID: 1755377562182484941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00092
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bc3deb6c0e536f0800000000000000
+      internalID: -705410622403916907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00093
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8141c0e1bb355a1a0800000000000000
+      internalID: -6798935999317797864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00094
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1072
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4efd07ed331f500800000000000000
+      internalID: 428180470046385386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00095
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1072
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd1e1772c680c250800000000000000
+      internalID: 5962914076418776536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00096
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3e345024cae7d70800000000000000
+      internalID: 9042854501362689023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00097
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d239f9e4a96f2110800000000000000
+      internalID: 1238324579571151571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00098
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191c0e0bdba7f2740800000000000000
+      internalID: 5129453455733211537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00099
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1024
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dcfb9771f7a39d0800000000000000
+      internalID: -2793780880026382976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1024
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d56f5ca7d579ba90800000000000000
+      internalID: -7297672152006826535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00101
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf20621359f95bb0800000000000000
+      internalID: -4946648580503883834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00102
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9477478ebeb92e2e0800000000000000
+      internalID: -2097943038881663159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00103
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1649
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6857bfc3da50960800000000000000
+      internalID: 7567645226294412982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00104
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1649
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7801201b500dc7c0800000000000000
+      internalID: -4049580098823583618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1648
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d899ecbf24bffe440800000000000000
+      internalID: 4967465179123980685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1648
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feaa2eada4789c80800000000000000
+      internalID: -8315768422639423752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00107
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f1175bfe798930800000000000000
+      internalID: 4145984549933937715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 976
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1668e8c87558fd0800000000000000
+      internalID: -2340368170150895124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00109
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 976
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08bda9ee7cbe4130800000000000000
+      internalID: 3552984409314277388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00110
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6725bbca4decfc0800000000000000
+      internalID: -3472604424313866543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00111
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd6ac0dd04d6a30800000000000000
+      internalID: 4210092544805493992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00112
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc78b87eb40c53800800000000000000
+      internalID: 591590358308849612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 928
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71242cd811cdf580800000000000000
+      internalID: -8791658585040608897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00114
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 928
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10b15ac4d52c2a0800000000000000
+      internalID: -6718705110314450503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00115
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e736eca78f10c20800000000000000
+      internalID: 3171088818977865253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00116
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76d82364cd87280800000000000000
+      internalID: -9045237657519691859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00117
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 881
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269d1dbc74cc7ad00800000000000000
+      internalID: 983979652338014562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 880
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2feceb4d6efd9a20800000000000000
+      internalID: 3070890266315255598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHandle_00119
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 882
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ac2c06452b610e0800000000000000
+      internalID: -2299454484255683967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

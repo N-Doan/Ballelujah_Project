@@ -1,0 +1,3020 @@
+fileFormatVersion: 2
+guid: d1c4d4d3b4c5a664aa70db19a0217009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7119944417462721850
+    second: FireHandle_00000
+  - first:
+      213: -7955543010159645606
+    second: FireHandle_00001
+  - first:
+      213: -1538445214734675199
+    second: FireHandle_00002
+  - first:
+      213: 7107893237704022608
+    second: FireHandle_00003
+  - first:
+      213: -7826361117136018934
+    second: FireHandle_00004
+  - first:
+      213: -2899044942408639029
+    second: FireHandle_00005
+  - first:
+      213: 5816843592598780213
+    second: FireHandle_00006
+  - first:
+      213: -3857649696951829856
+    second: FireHandle_00007
+  - first:
+      213: -8148340950344381790
+    second: FireHandle_00008
+  - first:
+      213: 5841614265765899570
+    second: FireHandle_00009
+  - first:
+      213: -4515486836425821969
+    second: FireHandle_00010
+  - first:
+      213: 7660962635666456606
+    second: FireHandle_00011
+  - first:
+      213: 8767271261228878476
+    second: FireHandle_00012
+  - first:
+      213: 3766948836486035599
+    second: FireHandle_00013
+  - first:
+      213: -6424523271482941062
+    second: FireHandle_00014
+  - first:
+      213: 4097724676892629474
+    second: FireHandle_00015
+  - first:
+      213: 2101685919863001600
+    second: FireHandle_00016
+  - first:
+      213: 8739460106593100359
+    second: FireHandle_00017
+  - first:
+      213: 1851545417577921440
+    second: FireHandle_00018
+  - first:
+      213: 7329005115595180028
+    second: FireHandle_00019
+  - first:
+      213: 1323250184366666393
+    second: FireHandle_00020
+  - first:
+      213: -7102165198582068388
+    second: FireHandle_00021
+  - first:
+      213: -4845639450194520273
+    second: FireHandle_00022
+  - first:
+      213: -8330957656638077400
+    second: FireHandle_00023
+  - first:
+      213: 8788494050768632117
+    second: FireHandle_00024
+  - first:
+      213: 7211607512895877079
+    second: FireHandle_00025
+  - first:
+      213: -4083347666820400052
+    second: FireHandle_00026
+  - first:
+      213: 1609661159519270349
+    second: FireHandle_00027
+  - first:
+      213: 4597967449371825761
+    second: FireHandle_00028
+  - first:
+      213: -3722236013795881376
+    second: FireHandle_00029
+  - first:
+      213: 1847352147826643836
+    second: FireHandle_00030
+  - first:
+      213: -6650759047209446005
+    second: FireHandle_00031
+  - first:
+      213: -4778332885060031574
+    second: FireHandle_00032
+  - first:
+      213: 8703638421406461592
+    second: FireHandle_00033
+  - first:
+      213: -1668194102221645586
+    second: FireHandle_00034
+  - first:
+      213: 142223487155404934
+    second: FireHandle_00035
+  - first:
+      213: -3679056802156495020
+    second: FireHandle_00036
+  - first:
+      213: 8040944626512439959
+    second: FireHandle_00037
+  - first:
+      213: 7738117038848833201
+    second: FireHandle_00038
+  - first:
+      213: -2794349742774182172
+    second: FireHandle_00039
+  - first:
+      213: -1473018807883052987
+    second: FireHandle_00040
+  - first:
+      213: -7396779758362575557
+    second: FireHandle_00041
+  - first:
+      213: -4966036431812649376
+    second: FireHandle_00042
+  - first:
+      213: -3967643940447177921
+    second: FireHandle_00043
+  - first:
+      213: -3113134693745289662
+    second: FireHandle_00044
+  - first:
+      213: 5443502790107605971
+    second: FireHandle_00045
+  - first:
+      213: 7675321114679401123
+    second: FireHandle_00046
+  - first:
+      213: 6351630701695010955
+    second: FireHandle_00047
+  - first:
+      213: -8415824083784937191
+    second: FireHandle_00048
+  - first:
+      213: 5477358890634301312
+    second: FireHandle_00049
+  - first:
+      213: -1910354387457203911
+    second: FireHandle_00050
+  - first:
+      213: 1800343199365698119
+    second: FireHandle_00051
+  - first:
+      213: 2021873028414556445
+    second: FireHandle_00052
+  - first:
+      213: 167615645212083862
+    second: FireHandle_00053
+  - first:
+      213: -3511753262506575460
+    second: FireHandle_00054
+  - first:
+      213: 4089126688110628583
+    second: FireHandle_00055
+  - first:
+      213: 5724873168611079071
+    second: FireHandle_00056
+  - first:
+      213: 7528466404744500851
+    second: FireHandle_00057
+  - first:
+      213: -3830859847892753880
+    second: FireHandle_00058
+  - first:
+      213: -4936398038250668739
+    second: FireHandle_00059
+  - first:
+      213: -7047376326515042990
+    second: FireHandle_00060
+  - first:
+      213: -91753553154978213
+    second: FireHandle_00061
+  - first:
+      213: -7684854021489792384
+    second: FireHandle_00062
+  - first:
+      213: 2726302885029935398
+    second: FireHandle_00063
+  - first:
+      213: -3771693369454618862
+    second: FireHandle_00064
+  - first:
+      213: 347271219858118063
+    second: FireHandle_00065
+  - first:
+      213: -6900974557523879120
+    second: FireHandle_00066
+  - first:
+      213: -1360787218567546544
+    second: FireHandle_00067
+  - first:
+      213: 1189469318858548729
+    second: FireHandle_00068
+  - first:
+      213: -4601232493331109694
+    second: FireHandle_00069
+  - first:
+      213: -6313893136371937488
+    second: FireHandle_00070
+  - first:
+      213: 1602573245336529096
+    second: FireHandle_00071
+  - first:
+      213: -7657856336961499301
+    second: FireHandle_00072
+  - first:
+      213: 8457819621840503574
+    second: FireHandle_00073
+  - first:
+      213: 8794383797754240108
+    second: FireHandle_00074
+  - first:
+      213: 5532146021721411474
+    second: FireHandle_00075
+  - first:
+      213: 7552298577878252337
+    second: FireHandle_00076
+  - first:
+      213: -1871887393491794283
+    second: FireHandle_00077
+  - first:
+      213: -2121393001847659542
+    second: FireHandle_00078
+  - first:
+      213: -2794258638904031872
+    second: FireHandle_00079
+  - first:
+      213: 5038601230356945422
+    second: FireHandle_00080
+  - first:
+      213: 4845668353337660184
+    second: FireHandle_00081
+  - first:
+      213: -5009973360315509508
+    second: FireHandle_00082
+  - first:
+      213: 8881077147170786521
+    second: FireHandle_00083
+  - first:
+      213: -8683464047933412406
+    second: FireHandle_00084
+  - first:
+      213: -1921793331635472828
+    second: FireHandle_00085
+  - first:
+      213: 4214664155710293752
+    second: FireHandle_00086
+  - first:
+      213: -6254504615671808827
+    second: FireHandle_00087
+  - first:
+      213: -4172689110706792615
+    second: FireHandle_00088
+  - first:
+      213: 7347645446602002137
+    second: FireHandle_00089
+  - first:
+      213: 8132121222811601126
+    second: FireHandle_00090
+  - first:
+      213: 4763257764455326931
+    second: FireHandle_00091
+  - first:
+      213: 54681192511352877
+    second: FireHandle_00092
+  - first:
+      213: -6497319672548001453
+    second: FireHandle_00093
+  - first:
+      213: 8910414592513015859
+    second: FireHandle_00094
+  - first:
+      213: 1784116394313194352
+    second: FireHandle_00095
+  - first:
+      213: -8840070540372685003
+    second: FireHandle_00096
+  - first:
+      213: 4664535579827026070
+    second: FireHandle_00097
+  - first:
+      213: -1178479786024482349
+    second: FireHandle_00098
+  - first:
+      213: 8497617665337051877
+    second: FireHandle_00099
+  - first:
+      213: 4795406207182523690
+    second: FireHandle_00100
+  - first:
+      213: 7853242248957449431
+    second: FireHandle_00101
+  - first:
+      213: -2210654278759825434
+    second: FireHandle_00102
+  - first:
+      213: 1523963662732859419
+    second: FireHandle_00103
+  - first:
+      213: 531558676228606893
+    second: FireHandle_00104
+  - first:
+      213: 3731417376829793298
+    second: FireHandle_00105
+  - first:
+      213: 1802281775502487090
+    second: FireHandle_00106
+  - first:
+      213: -8397197379203426063
+    second: FireHandle_00107
+  - first:
+      213: -7553864102203074414
+    second: FireHandle_00108
+  - first:
+      213: 1381251821982124602
+    second: FireHandle_00109
+  - first:
+      213: 8747558173786512559
+    second: FireHandle_00110
+  - first:
+      213: 9187433284265985053
+    second: FireHandle_00111
+  - first:
+      213: -7194202923988991794
+    second: FireHandle_00112
+  - first:
+      213: -397995756444823220
+    second: FireHandle_00113
+  - first:
+      213: 7204624338993157960
+    second: FireHandle_00114
+  - first:
+      213: -5118576558587108170
+    second: FireHandle_00115
+  - first:
+      213: 794305382809625057
+    second: FireHandle_00116
+  - first:
+      213: -4862202726360397525
+    second: FireHandle_00117
+  - first:
+      213: 1184031573839380510
+    second: FireHandle_00118
+  - first:
+      213: 8248030038996762960
+    second: FireHandle_00119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireHandle_00000
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1846
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d146f79bf1fc260800000000000000
+      internalID: 7119944417462721850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00001
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1796
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ca71458cb389190800000000000000
+      internalID: -7955543010159645606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00002
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1747
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103175d6a3856aae0800000000000000
+      internalID: -1538445214734675199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00003
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1747
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05adfbe8d3f44a260800000000000000
+      internalID: 7107893237704022608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02ad21a70e236390800000000000000
+      internalID: -7826361117136018934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00005
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd17d31cf584c7d0800000000000000
+      internalID: -2899044942408639029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00006
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1796
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5397bd2bd6499b050800000000000000
+      internalID: 5816843592598780213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aafa411a00e67ac0800000000000000
+      internalID: -3857649696951829856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00008
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa44f1d3174bee80800000000000000
+      internalID: -8148340950344381790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00009
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23da4d97935911150800000000000000
+      internalID: 5841614265765899570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f2e675a4c551c0800000000000000
+      internalID: -4515486836425821969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00011
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1998
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1080787de4315a60800000000000000
+      internalID: 7660962635666456606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00012
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1998
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ac907d2ca9ba970800000000000000
+      internalID: 8767271261228878476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00013
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8832d53204e64430800000000000000
+      internalID: 3766948836486035599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00014
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1649
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7167088f1287d6a0800000000000000
+      internalID: -6424523271482941062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00015
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9998902ea0ed830800000000000000
+      internalID: 4097724676892629474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1600
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002dfda7530ba2d10800000000000000
+      internalID: 2101685919863001600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00017
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1600
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742ed2ec9acc84970800000000000000
+      internalID: 8739460106593100359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00018
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abfb345fb202b910800000000000000
+      internalID: 1851545417577921440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00019
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf74218625bd5b560800000000000000
+      internalID: 7329005115595180028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00020
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992352428012d5210800000000000000
+      internalID: 1323250184366666393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1552
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bcf5a716a007d90800000000000000
+      internalID: -7102165198582068388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00022
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1552
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f275985e794d0ccb0800000000000000
+      internalID: -4845639450194520273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00023
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826444d862e726c80800000000000000
+      internalID: -8330957656638077400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00024
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539b2b696c007f970800000000000000
+      internalID: 8788494050768632117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00025
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1947
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df62b103d6c41460800000000000000
+      internalID: 7211607512895877079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00026
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1947
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cffb87ee80557c0800000000000000
+      internalID: -4083347666820400052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00027
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5b3e5db4aa65610800000000000000
+      internalID: 1609661159519270349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00028
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166dd9cb8034fcf30800000000000000
+      internalID: 4597967449371825761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00029
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec7831116f75cc0800000000000000
+      internalID: -3722236013795881376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c731342adfc13a910800000000000000
+      internalID: 1847352147826643836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00031
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b859d5042e1c3b3a0800000000000000
+      internalID: -6650759047209446005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00032
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabed67ce83ffadb0800000000000000
+      internalID: -4778332885060031574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eaf59c70989c870800000000000000
+      internalID: 8703638421406461592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00034
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee85da07d4269d8e0800000000000000
+      internalID: -1668194102221645586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1504
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6808d9e028749f100800000000000000
+      internalID: 142223487155404934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00036
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1504
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f3af6b45d51fcc0800000000000000
+      internalID: -3679056802156495020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00037
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a2cd9f88c279f60800000000000000
+      internalID: 8040944626512439959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00038
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67bf2d270536b60800000000000000
+      internalID: 7738117038848833201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00039
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee9dbbc6b97839d0800000000000000
+      internalID: -2794349742774182172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00040
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1698
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54849a8d239ce8be0800000000000000
+      internalID: -1473018807883052987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00041
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1456
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dbff4effb595990800000000000000
+      internalID: -7396779758362575557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00042
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1698
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e982c2d28151bb0800000000000000
+      internalID: -4966036431812649376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00043
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f333a6e8bd810f8c0800000000000000
+      internalID: -3967643940447177921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00044
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 881
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2461e597d7cebc4d0800000000000000
+      internalID: -3113134693745289662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00045
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 882
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db263a52f43b8b40800000000000000
+      internalID: 5443502790107605971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00046
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1456
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa558163e7348a60800000000000000
+      internalID: 7675321114679401123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00047
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b880ff68876852850800000000000000
+      internalID: 6351630701695010955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00048
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91152d1b59cf43b80800000000000000
+      internalID: -8415824083784937191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00049
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fc59704ec730c40800000000000000
+      internalID: 5477358890634301312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00050
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931218c5ece0d75e0800000000000000
+      internalID: -1910354387457203911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00051
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429bf7e99a1cf810800000000000000
+      internalID: 1800343199365698119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00052
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1408
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19c7979ec22f0c10800000000000000
+      internalID: 2021873028414556445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00053
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1896
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6960aaf8a8d735200800000000000000
+      internalID: 167615645212083862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00054
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99f979830fb34fc0800000000000000
+      internalID: -3511753262506575460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00055
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1896
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee4766ce0f7fb830800000000000000
+      internalID: 4089126688110628583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00056
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f937a3fa0d5d27f40800000000000000
+      internalID: 5724873168611079071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00057
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376124ebe4c7a7860800000000000000
+      internalID: 7528466404744500851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00058
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822ab0ed34d06dac0800000000000000
+      internalID: -3830859847892753880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00059
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1845
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d322c63246e7bb0800000000000000
+      internalID: -4936398038250668739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00060
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1408
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255d293d190b23e90800000000000000
+      internalID: -7047376326515042990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00061
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e415921a60abef0800000000000000
+      internalID: -91753553154978213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00062
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a6e5acbf9e95590800000000000000
+      internalID: -7684854021489792384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00063
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629f4548706c5d520800000000000000
+      internalID: 2726302885029935398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00064
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1360
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21716ff1dd048abc0800000000000000
+      internalID: -3771693369454618862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00065
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1360
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa51c54a551c1d400800000000000000
+      internalID: 347271219858118063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00066
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bd7cee330da30a0800000000000000
+      internalID: -6900974557523879120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00067
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b3660c338d1de0800000000000000
+      internalID: -1360787218567546544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00068
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f52acd1b08d18010800000000000000
+      internalID: 1189469318858548729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00069
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1312
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8a30afc632520c0800000000000000
+      internalID: -4601232493331109694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00070
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1312
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f06c815ab8068a0800000000000000
+      internalID: -6313893136371937488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00071
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c824d630eb7d3610800000000000000
+      internalID: 1602573245336529096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00072
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f8f6e0c34d9b590800000000000000
+      internalID: -7657856336961499301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00073
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613c1267226306570800000000000000
+      internalID: 8457819621840503574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00074
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1264
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c979b287deb0a70800000000000000
+      internalID: 8794383797754240108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00075
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1264
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f8b460f7126cc40800000000000000
+      internalID: 5532146021721411474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00076
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bfe14fa872fc860800000000000000
+      internalID: 7552298577878252337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00077
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c3635558b506e0800000000000000
+      internalID: -1871887393491794283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00078
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3eedfed4c4f82e0800000000000000
+      internalID: -2121393001847659542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00079
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1216
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0850f81929cc839d0800000000000000
+      internalID: -2794258638904031872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00080
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a95449f15bce540800000000000000
+      internalID: 5038601230356945422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00081
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8131b04a1b54f3340800000000000000
+      internalID: 4845668353337660184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00082
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf45934d5cff87ab0800000000000000
+      internalID: -5009973360315509508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00083
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc44f38c9cef3b70800000000000000
+      internalID: 8881077147170786521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00084
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1168
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbad0394732e7780800000000000000
+      internalID: -8683464047933412406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00085
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1168
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4463720a52b6455e0800000000000000
+      internalID: -1921793331635472828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00086
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60fa828be7d7a30800000000000000
+      internalID: 4214664155710293752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00087
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc37d890398339a0800000000000000
+      internalID: -6254504615671808827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00088
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9575e269c51a716c0800000000000000
+      internalID: -4172689110706792615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00089
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1120
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de8a3caa9418f560800000000000000
+      internalID: 7347645446602002137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00090
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1120
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8c9149a291bd070800000000000000
+      internalID: 8132121222811601126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00091
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d42bff23bd7a1240800000000000000
+      internalID: 4763257764455326931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00092
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20b88f314442c000800000000000000
+      internalID: 54681192511352877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00093
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3597e9d9e22e4d5a0800000000000000
+      internalID: -6497319672548001453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00094
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1072
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330023cccd628ab70800000000000000
+      internalID: 8910414592513015859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00095
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1072
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b1df0786472c810800000000000000
+      internalID: 1784116394313194352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00096
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fc0b32ea2c15580800000000000000
+      internalID: -8840070540372685003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00097
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698b2c56562cbb040800000000000000
+      internalID: 4664535579827026070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00098
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d94803e0e235afe0800000000000000
+      internalID: -1178479786024482349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00099
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1024
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eacf7b8e3a9de570800000000000000
+      internalID: 8497617665337051877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1024
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d41dcc984bc8240800000000000000
+      internalID: 4795406207182523690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00101
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4d23897325cfc60800000000000000
+      internalID: 7853242248957449431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00102
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efb25165ad2251e0800000000000000
+      internalID: -2210654278759825434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00103
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1649
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b189bcf70e4362510800000000000000
+      internalID: 1523963662732859419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00104
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1649
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab02e9bcc9706700800000000000000
+      internalID: 531558676228606893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1648
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214e8a69558a8c330800000000000000
+      internalID: 3731417376829793298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1648
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e6cf5d9bdf20910800000000000000
+      internalID: 1802281775502487090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00107
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f81dbf4979277b80800000000000000
+      internalID: -8397197379203426063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 976
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2985c920f984b2790800000000000000
+      internalID: -7553864102203074414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00109
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 976
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a0b92c6313b2310800000000000000
+      internalID: 1381251821982124602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00110
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac1c9000d1956970800000000000000
+      internalID: 8747558173786512559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00111
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14464a15e1508f70800000000000000
+      internalID: 9187433284265985053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00112
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec04f81ae8e092c90800000000000000
+      internalID: -7194202923988991794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 928
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c415efad7f80a7af0800000000000000
+      internalID: -397995756444823220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00114
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 928
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84712d12aa7fbf360800000000000000
+      internalID: 7204624338993157960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00115
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b426c54db927f8b0800000000000000
+      internalID: -5118576558587108170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00116
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e16c898980f50b00800000000000000
+      internalID: 794305382809625057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00117
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 881
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b294a55a16cf58cb0800000000000000
+      internalID: -4862202726360397525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 880
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e100b8171768e6010800000000000000
+      internalID: 1184031573839380510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHandle_00119
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 882
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051472bde93e67270800000000000000
+      internalID: 8248030038996762960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

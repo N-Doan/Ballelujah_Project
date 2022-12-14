@@ -1,0 +1,3020 @@
+fileFormatVersion: 2
+guid: be632f0ff162861419da86141c74a3b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4047648451995205347
+    second: AirHandle_00000
+  - first:
+      213: -4520699072351802669
+    second: AirHandle_00001
+  - first:
+      213: 6727387577137758066
+    second: AirHandle_00002
+  - first:
+      213: 1960319532839585608
+    second: AirHandle_00003
+  - first:
+      213: 908618763330662780
+    second: AirHandle_00004
+  - first:
+      213: -3731531469654537963
+    second: AirHandle_00005
+  - first:
+      213: -2259206444511592681
+    second: AirHandle_00006
+  - first:
+      213: -348337271850143952
+    second: AirHandle_00007
+  - first:
+      213: -1593907900536138296
+    second: AirHandle_00008
+  - first:
+      213: -7151924089351541785
+    second: AirHandle_00009
+  - first:
+      213: 6716212085918121816
+    second: AirHandle_00010
+  - first:
+      213: 2790978375252204744
+    second: AirHandle_00011
+  - first:
+      213: -8442061777195939007
+    second: AirHandle_00012
+  - first:
+      213: 5109112313084487352
+    second: AirHandle_00013
+  - first:
+      213: -2748507132134101697
+    second: AirHandle_00014
+  - first:
+      213: 9215689802403620559
+    second: AirHandle_00015
+  - first:
+      213: 9162594626229788081
+    second: AirHandle_00016
+  - first:
+      213: 2871886634882486788
+    second: AirHandle_00017
+  - first:
+      213: 5160418096795564627
+    second: AirHandle_00018
+  - first:
+      213: 6158260295581583146
+    second: AirHandle_00019
+  - first:
+      213: -3798208773185278802
+    second: AirHandle_00020
+  - first:
+      213: 8415814976124831757
+    second: AirHandle_00021
+  - first:
+      213: 945426526263831561
+    second: AirHandle_00022
+  - first:
+      213: 1914016662984851632
+    second: AirHandle_00023
+  - first:
+      213: -3886894605744069752
+    second: AirHandle_00024
+  - first:
+      213: -2636834875767719483
+    second: AirHandle_00025
+  - first:
+      213: -8433165640265259431
+    second: AirHandle_00026
+  - first:
+      213: -7556877591471807201
+    second: AirHandle_00027
+  - first:
+      213: 8733569755071062608
+    second: AirHandle_00028
+  - first:
+      213: -3127672112679676605
+    second: AirHandle_00029
+  - first:
+      213: -81215363868704609
+    second: AirHandle_00030
+  - first:
+      213: 2835806755377981818
+    second: AirHandle_00031
+  - first:
+      213: 3746184307882027855
+    second: AirHandle_00032
+  - first:
+      213: 5729845857480572103
+    second: AirHandle_00033
+  - first:
+      213: 22499444254854908
+    second: AirHandle_00034
+  - first:
+      213: 3055756069516042233
+    second: AirHandle_00035
+  - first:
+      213: 6262242438722849562
+    second: AirHandle_00036
+  - first:
+      213: -360767515964570699
+    second: AirHandle_00037
+  - first:
+      213: 8782689952253980309
+    second: AirHandle_00038
+  - first:
+      213: -5423207283866012918
+    second: AirHandle_00039
+  - first:
+      213: 3387756836007725523
+    second: AirHandle_00040
+  - first:
+      213: 3290299683598656011
+    second: AirHandle_00041
+  - first:
+      213: 8306093632774390933
+    second: AirHandle_00042
+  - first:
+      213: 7071435986523203225
+    second: AirHandle_00043
+  - first:
+      213: -5394162448768942013
+    second: AirHandle_00044
+  - first:
+      213: -7075052399259849468
+    second: AirHandle_00045
+  - first:
+      213: 529047063760885210
+    second: AirHandle_00046
+  - first:
+      213: 5980624153857153411
+    second: AirHandle_00047
+  - first:
+      213: -1653951495501051878
+    second: AirHandle_00048
+  - first:
+      213: 5042479902942170925
+    second: AirHandle_00049
+  - first:
+      213: 2158784048764664851
+    second: AirHandle_00050
+  - first:
+      213: 3455867944767448216
+    second: AirHandle_00051
+  - first:
+      213: -4032763173145713340
+    second: AirHandle_00052
+  - first:
+      213: -5734181870892384143
+    second: AirHandle_00053
+  - first:
+      213: 2764387452734964064
+    second: AirHandle_00054
+  - first:
+      213: 1121611984801085659
+    second: AirHandle_00055
+  - first:
+      213: 4172898275220191634
+    second: AirHandle_00056
+  - first:
+      213: 1727238353652033983
+    second: AirHandle_00057
+  - first:
+      213: -5606636037083948963
+    second: AirHandle_00058
+  - first:
+      213: 3049193433805872946
+    second: AirHandle_00059
+  - first:
+      213: 7767015200396343535
+    second: AirHandle_00060
+  - first:
+      213: -3082337186515901875
+    second: AirHandle_00061
+  - first:
+      213: -8797381864001067630
+    second: AirHandle_00062
+  - first:
+      213: -4461348159303036975
+    second: AirHandle_00063
+  - first:
+      213: 3088162556811428855
+    second: AirHandle_00064
+  - first:
+      213: 6954716335107095
+    second: AirHandle_00065
+  - first:
+      213: -6994951722152961391
+    second: AirHandle_00066
+  - first:
+      213: 4036393704596937696
+    second: AirHandle_00067
+  - first:
+      213: -8186072232281866694
+    second: AirHandle_00068
+  - first:
+      213: 445778933411691759
+    second: AirHandle_00069
+  - first:
+      213: -1105470134688565502
+    second: AirHandle_00070
+  - first:
+      213: -9138527286486217182
+    second: AirHandle_00071
+  - first:
+      213: -4825497405001378074
+    second: AirHandle_00072
+  - first:
+      213: 2186031420218496939
+    second: AirHandle_00073
+  - first:
+      213: 5171879203911861324
+    second: AirHandle_00074
+  - first:
+      213: -4596116247118463388
+    second: AirHandle_00075
+  - first:
+      213: 3145051337114808053
+    second: AirHandle_00076
+  - first:
+      213: 5631966036735221346
+    second: AirHandle_00077
+  - first:
+      213: -3956792128061551062
+    second: AirHandle_00078
+  - first:
+      213: 7596761850240780888
+    second: AirHandle_00079
+  - first:
+      213: 1812426736708315362
+    second: AirHandle_00080
+  - first:
+      213: 6917989026977808992
+    second: AirHandle_00081
+  - first:
+      213: 3465994962635124494
+    second: AirHandle_00082
+  - first:
+      213: 3727870416651420207
+    second: AirHandle_00083
+  - first:
+      213: 1534562894774966852
+    second: AirHandle_00084
+  - first:
+      213: -6981980678095669536
+    second: AirHandle_00085
+  - first:
+      213: 2357612440274041019
+    second: AirHandle_00086
+  - first:
+      213: 1555786023791088017
+    second: AirHandle_00087
+  - first:
+      213: -6640254530640930106
+    second: AirHandle_00088
+  - first:
+      213: -8821341309787605632
+    second: AirHandle_00089
+  - first:
+      213: 2925567255905676737
+    second: AirHandle_00090
+  - first:
+      213: -4787772705013110952
+    second: AirHandle_00091
+  - first:
+      213: -883587037658040056
+    second: AirHandle_00092
+  - first:
+      213: 404057457731356749
+    second: AirHandle_00093
+  - first:
+      213: 963405684664096359
+    second: AirHandle_00094
+  - first:
+      213: 6597643142191817993
+    second: AirHandle_00095
+  - first:
+      213: 6935682579119133668
+    second: AirHandle_00096
+  - first:
+      213: 6621635682774242167
+    second: AirHandle_00097
+  - first:
+      213: 1570182382866418097
+    second: AirHandle_00098
+  - first:
+      213: -4810211467583891929
+    second: AirHandle_00099
+  - first:
+      213: -8570633407172612489
+    second: AirHandle_00100
+  - first:
+      213: 5090907156799130080
+    second: AirHandle_00101
+  - first:
+      213: 5283072013222342613
+    second: AirHandle_00102
+  - first:
+      213: 4330651274058020284
+    second: AirHandle_00103
+  - first:
+      213: 8244712530445802909
+    second: AirHandle_00104
+  - first:
+      213: 2218212243957467510
+    second: AirHandle_00105
+  - first:
+      213: 5836098859671109613
+    second: AirHandle_00106
+  - first:
+      213: -7872181010425369034
+    second: AirHandle_00107
+  - first:
+      213: 2909927796171883606
+    second: AirHandle_00108
+  - first:
+      213: -5930300176903233274
+    second: AirHandle_00109
+  - first:
+      213: 5753814940293430774
+    second: AirHandle_00110
+  - first:
+      213: 3111497777553642511
+    second: AirHandle_00111
+  - first:
+      213: 3377526388548291011
+    second: AirHandle_00112
+  - first:
+      213: 7314760413670127268
+    second: AirHandle_00113
+  - first:
+      213: 7426480291870547011
+    second: AirHandle_00114
+  - first:
+      213: -6129047960928518003
+    second: AirHandle_00115
+  - first:
+      213: 3424199391230384494
+    second: AirHandle_00116
+  - first:
+      213: -7140545926966519607
+    second: AirHandle_00117
+  - first:
+      213: 8018616523594739283
+    second: AirHandle_00118
+  - first:
+      213: 482558735345116920
+    second: AirHandle_00119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AirHandle_00000
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1846
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee75dc52d22c2830800000000000000
+      internalID: 4047648451995205347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00001
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1796
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da680835204341c0800000000000000
+      internalID: -4520699072351802669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00002
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1747
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ffba1bb5b7c5d50800000000000000
+      internalID: 6727387577137758066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00003
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1747
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c9299a34743b10800000000000000
+      internalID: 1960319532839585608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71349083ff0c9c00800000000000000
+      internalID: 908618763330662780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00005
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519cc0b16efe63cc0800000000000000
+      internalID: -3731531469654537963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00006
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1796
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ffc9065bfa5a0e0800000000000000
+      internalID: -2259206444511592681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fe759c8157a2bf0800000000000000
+      internalID: -348337271850143952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00008
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5dad7953d41e9e0800000000000000
+      internalID: -1593907900536138296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00009
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb64a9eee24fbc90800000000000000
+      internalID: -7151924089351541785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fb551ee47c43d50800000000000000
+      internalID: 6716212085918121816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00011
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1998
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc54b88b0c8bb620800000000000000
+      internalID: 2790978375252204744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00012
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1998
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b4556aa85c7da80800000000000000
+      internalID: -8442061777195939007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00013
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6a9fa549637e640800000000000000
+      internalID: 5109112313084487352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00014
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1649
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de48653575bd9d0800000000000000
+      internalID: -2748507132134101697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00015
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc625786c05b4ef70800000000000000
+      internalID: 9215689802403620559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1600
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd545d5443182f70800000000000000
+      internalID: 9162594626229788081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00017
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1600
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402dc53bdadfad720800000000000000
+      internalID: 2871886634882486788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00018
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a3ffffaec7d9740800000000000000
+      internalID: 5160418096795564627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00019
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2748886c19867550800000000000000
+      internalID: 6158260295581583146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00020
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace48b9e3d0a4bc0800000000000000
+      internalID: -3798208773185278802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1552
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d084553c12bfac470800000000000000
+      internalID: 8415814976124831757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00022
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1552
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cef23aa64de1d00800000000000000
+      internalID: 945426526263831561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00023
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0046b9304ff8a10800000000000000
+      internalID: 1914016662984851632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00024
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8832e3123f9fe0ac0800000000000000
+      internalID: -3886894605744069752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00025
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1947
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9f08aa6a4186bd0800000000000000
+      internalID: -2636834875767719483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00026
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1947
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956a5ffe78067fa80800000000000000
+      internalID: -8433165640265259431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00027
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15a63d5ed3902790800000000000000
+      internalID: -7556877591471807201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00028
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0522b187b6fd33970800000000000000
+      internalID: 8733569755071062608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00029
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34515ddd8c64894d0800000000000000
+      internalID: -3127672112679676605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f904d4e8e077fdef0800000000000000
+      internalID: -81215363868704609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00031
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7925f1283fca5720800000000000000
+      internalID: 2835806755377981818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00032
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b6376a7ce1df330800000000000000
+      internalID: 3746184307882027855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc7fd80370848f40800000000000000
+      internalID: 5729845857480572103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00034
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe4476102fef4000800000000000000
+      internalID: 22499444254854908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1504
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff5fb384f9386a20800000000000000
+      internalID: 3055756069516042233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00036
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1504
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b8379b154f7e650800000000000000
+      internalID: 6262242438722849562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00037
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b38e6c0bdb4efaf0800000000000000
+      internalID: -360767515964570699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00038
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ead789af162e970800000000000000
+      internalID: 8782689952253980309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00039
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03fadd65b5ecb4b0800000000000000
+      internalID: -5423207283866012918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00040
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1698
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d944aba4eab30f20800000000000000
+      internalID: 3387756836007725523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00041
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1456
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b026a75212e79ad20800000000000000
+      internalID: 3290299683598656011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00042
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1698
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594c6a4c62c254370800000000000000
+      internalID: 8306093632774390933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00043
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99621ac4099c22260800000000000000
+      internalID: 7071435986523203225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00044
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 881
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340406415d51425b0800000000000000
+      internalID: -5394162448768942013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00045
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 882
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d67def35d50dd90800000000000000
+      internalID: -7075052399259849468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00046
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1456
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad55ee0608d875700800000000000000
+      internalID: 529047063760885210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00047
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389d6c13bf17ff250800000000000000
+      internalID: 5980624153857153411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00048
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a180feab0ebfb09e0800000000000000
+      internalID: -1653951495501051878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00049
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f0ae961cc7af540800000000000000
+      internalID: 5042479902942170925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00050
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb56597aa85fd10800000000000000
+      internalID: 2158784048764664851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00051
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e586f595b5ff20800000000000000
+      internalID: 3455867944767448216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00052
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1408
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4456f51b24fb808c0800000000000000
+      internalID: -4032763173145713340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00053
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1896
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17089fb28f71c60b0800000000000000
+      internalID: -5734181870892384143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00054
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06180ddedb31d5620800000000000000
+      internalID: 2764387452734964064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00055
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1896
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b3e95824c09f00800000000000000
+      internalID: 1121611984801085659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00056
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299f6525fdc19e930800000000000000
+      internalID: 4172898275220191634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00057
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb92cdf912268f710800000000000000
+      internalID: 1727238353652033983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00058
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5815b0ca3a3132b0800000000000000
+      internalID: -5606636037083948963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00059
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1845
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fd371d549e05a20800000000000000
+      internalID: 3049193433805872946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00060
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1408
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8fea06c2bf9cb60800000000000000
+      internalID: 7767015200396343535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00061
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d422eb7e8a65935d0800000000000000
+      internalID: -3082337186515901875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00062
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295a0c22ecb69e580800000000000000
+      internalID: -8797381864001067630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00063
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df46618c7b1612c0800000000000000
+      internalID: -4461348159303036975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00064
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1360
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3486fcb7b5bda20800000000000000
+      internalID: 3088162556811428855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00065
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1360
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ceaa41745b81000800000000000000
+      internalID: 6954716335107095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00066
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ad0143870fcee90800000000000000
+      internalID: -6994951722152961391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00067
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb9f1840b6240830800000000000000
+      internalID: 4036393704596937696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00068
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e76292daa356e80800000000000000
+      internalID: -8186072232281866694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00069
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1312
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec3b5ef399bf2600800000000000000
+      internalID: 445778933411691759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00070
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1312
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207b51005c498a0f0800000000000000
+      internalID: -1105470134688565502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00071
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e46c6d9dd6d2180800000000000000
+      internalID: -9138527286486217182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00072
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6d25e3da3680db0800000000000000
+      internalID: -4825497405001378074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00073
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba757fd9ef7565e10800000000000000
+      internalID: 2186031420218496939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00074
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1264
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c448562fbb436c740800000000000000
+      internalID: 5171879203911861324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00075
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1264
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e3a10ef905730c0800000000000000
+      internalID: -4596116247118463388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00076
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe6815278775ab20800000000000000
+      internalID: 3145051337114808053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00077
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26edaae5543c82e40800000000000000
+      internalID: 5631966036735221346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00078
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e44d40686a619c0800000000000000
+      internalID: -3956792128061551062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00079
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1216
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a47d647ae1d6960800000000000000
+      internalID: 7596761850240780888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00080
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e86beea388072910800000000000000
+      internalID: 1812426736708315362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00081
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0620011fd52a10060800000000000000
+      internalID: 6917989026977808992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00082
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fe82d0e00b91030800000000000000
+      internalID: 3465994962635124494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00083
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f220231946e0cb330800000000000000
+      internalID: 3727870416651420207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00084
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1168
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a9e8482dcdb4510800000000000000
+      internalID: 1534562894774966852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00085
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1168
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6777db0950b1f90800000000000000
+      internalID: -6981980678095669536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00086
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb87394f50ce7b020800000000000000
+      internalID: 2357612440274041019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00087
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191d59e4523479510800000000000000
+      internalID: 1555786023791088017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00088
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca18fa9fa319d3a0800000000000000
+      internalID: -6640254530640930106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00089
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1120
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08571a3f0dc449580800000000000000
+      internalID: -8821341309787605632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00090
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1120
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cda5ce3be3b99820800000000000000
+      internalID: 2925567255905676737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00091
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e16c671a6e8db0800000000000000
+      internalID: -4787772705013110952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00092
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809b04c454edcb3f0800000000000000
+      internalID: -883587037658040056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00093
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48cce4fd108b9500800000000000000
+      internalID: 404057457731356749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00094
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1072
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766def8ad54be5d00800000000000000
+      internalID: 963405684664096359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00095
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1072
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905a2256b798f8b50800000000000000
+      internalID: 6597643142191817993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00096
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d2431f8e704060800000000000000
+      internalID: 6935682579119133668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00097
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7735fcf0296c4eb50800000000000000
+      internalID: 6621635682774242167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00098
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9445bde886ac510800000000000000
+      internalID: 1570182382866418097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00099
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1024
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726d624e722be3db0800000000000000
+      internalID: -4810211467583891929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1024
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e6169435efe0980800000000000000
+      internalID: -8570633407172612489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00101
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e98189161986a640800000000000000
+      internalID: 5090907156799130080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00102
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfecee410e315940800000000000000
+      internalID: 5283072013222342613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00103
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1649
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb532549360991c30800000000000000
+      internalID: 4330651274058020284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00104
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1649
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d1f643d5a1b6270800000000000000
+      internalID: 8244712530445802909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1648
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679c185884ca8ce10800000000000000
+      internalID: 2218212243957467510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1648
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def32ccedfcfdf050800000000000000
+      internalID: 5836098859671109613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00107
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e2502641560c290800000000000000
+      internalID: -7872181010425369034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 976
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6544cd4c9e3226820800000000000000
+      internalID: 2909927796171883606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00109
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 976
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6012f30c86753bda0800000000000000
+      internalID: -5930300176903233274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00110
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd76830438a9df40800000000000000
+      internalID: 5753814940293430774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00111
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0490864eb24e2b20800000000000000
+      internalID: 3111497777553642511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00112
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9cde00b526fde20800000000000000
+      internalID: 3377526388548291011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 928
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6b5e947df338560800000000000000
+      internalID: 7314760413670127268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00114
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 928
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c12607a78201760800000000000000
+      internalID: 7426480291870547011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00115
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8006854a5f31faa0800000000000000
+      internalID: -6129047960928518003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00116
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6955624433358f20800000000000000
+      internalID: 3424199391230384494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00117
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 881
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c85cc8cf4fa7ec90800000000000000
+      internalID: -7140545926966519607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 880
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e21f66e39d74f60800000000000000
+      internalID: 8018616523594739283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirHandle_00119
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 882
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6e183fc9462b600800000000000000
+      internalID: 482558735345116920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

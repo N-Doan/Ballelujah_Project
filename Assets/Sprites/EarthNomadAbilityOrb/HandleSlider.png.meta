@@ -1,0 +1,3020 @@
+fileFormatVersion: 2
+guid: ac6377e8942b0c64b88ba25a6600cabd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2095777897321532074
+    second: EarthHandle_00000
+  - first:
+      213: 8291387978896369223
+    second: EarthHandle_00001
+  - first:
+      213: -1389010037807521288
+    second: EarthHandle_00002
+  - first:
+      213: -4027278470959176048
+    second: EarthHandle_00003
+  - first:
+      213: 1967805019936565324
+    second: EarthHandle_00004
+  - first:
+      213: 7538815817736867331
+    second: EarthHandle_00005
+  - first:
+      213: -1611178122142619535
+    second: EarthHandle_00006
+  - first:
+      213: 2267390211012997374
+    second: EarthHandle_00007
+  - first:
+      213: 1234383731038896095
+    second: EarthHandle_00008
+  - first:
+      213: 6591680884248779809
+    second: EarthHandle_00009
+  - first:
+      213: -885521019090188153
+    second: EarthHandle_00010
+  - first:
+      213: 6269812053848804712
+    second: EarthHandle_00011
+  - first:
+      213: 8186945510016400519
+    second: EarthHandle_00012
+  - first:
+      213: 1102927181724106072
+    second: EarthHandle_00013
+  - first:
+      213: -4916723804696066682
+    second: EarthHandle_00014
+  - first:
+      213: 583483579832830634
+    second: EarthHandle_00015
+  - first:
+      213: 6043299068746925736
+    second: EarthHandle_00016
+  - first:
+      213: 7834042534994613006
+    second: EarthHandle_00017
+  - first:
+      213: -6354953865237935238
+    second: EarthHandle_00018
+  - first:
+      213: -7715968578994945941
+    second: EarthHandle_00019
+  - first:
+      213: 1610820528855993116
+    second: EarthHandle_00020
+  - first:
+      213: 4872576319606537966
+    second: EarthHandle_00021
+  - first:
+      213: 7378488259755223212
+    second: EarthHandle_00022
+  - first:
+      213: 8062050541767562858
+    second: EarthHandle_00023
+  - first:
+      213: -2573000587827626366
+    second: EarthHandle_00024
+  - first:
+      213: -1837643567622880796
+    second: EarthHandle_00025
+  - first:
+      213: 3378173811596346766
+    second: EarthHandle_00026
+  - first:
+      213: 6521727389422567082
+    second: EarthHandle_00027
+  - first:
+      213: 651667401097094398
+    second: EarthHandle_00028
+  - first:
+      213: -3369827136449326132
+    second: EarthHandle_00029
+  - first:
+      213: 3832755652555054469
+    second: EarthHandle_00030
+  - first:
+      213: -5210199270469983565
+    second: EarthHandle_00031
+  - first:
+      213: 8476026801403146756
+    second: EarthHandle_00032
+  - first:
+      213: 1129687388271634448
+    second: EarthHandle_00033
+  - first:
+      213: -3109178884659467261
+    second: EarthHandle_00034
+  - first:
+      213: 6188187237962165838
+    second: EarthHandle_00035
+  - first:
+      213: 6521298817638287427
+    second: EarthHandle_00036
+  - first:
+      213: -871137639681239117
+    second: EarthHandle_00037
+  - first:
+      213: 5237933643354010178
+    second: EarthHandle_00038
+  - first:
+      213: -8658030142462676143
+    second: EarthHandle_00039
+  - first:
+      213: 3929945012968853427
+    second: EarthHandle_00040
+  - first:
+      213: 1605267706946822113
+    second: EarthHandle_00041
+  - first:
+      213: 2469254666349786626
+    second: EarthHandle_00042
+  - first:
+      213: 5364568755400252389
+    second: EarthHandle_00043
+  - first:
+      213: 5166693668037900327
+    second: EarthHandle_00044
+  - first:
+      213: -7099467536878899016
+    second: EarthHandle_00045
+  - first:
+      213: -6462116712512751615
+    second: EarthHandle_00046
+  - first:
+      213: -2170590207128875455
+    second: EarthHandle_00047
+  - first:
+      213: -2689779707753049102
+    second: EarthHandle_00048
+  - first:
+      213: -1730115691384780625
+    second: EarthHandle_00049
+  - first:
+      213: -5634270899669788319
+    second: EarthHandle_00050
+  - first:
+      213: -8182054443675118220
+    second: EarthHandle_00051
+  - first:
+      213: 483573846954576206
+    second: EarthHandle_00052
+  - first:
+      213: 2230481136131693396
+    second: EarthHandle_00053
+  - first:
+      213: -8985343147191759092
+    second: EarthHandle_00054
+  - first:
+      213: 4342489490115215714
+    second: EarthHandle_00055
+  - first:
+      213: 6170014846208350578
+    second: EarthHandle_00056
+  - first:
+      213: -6105900578134233067
+    second: EarthHandle_00057
+  - first:
+      213: -6977290289614930832
+    second: EarthHandle_00058
+  - first:
+      213: 1639118484324780490
+    second: EarthHandle_00059
+  - first:
+      213: 5257416737439968955
+    second: EarthHandle_00060
+  - first:
+      213: -9134824347400385329
+    second: EarthHandle_00061
+  - first:
+      213: -5177791312097621719
+    second: EarthHandle_00062
+  - first:
+      213: -7574804218484789182
+    second: EarthHandle_00063
+  - first:
+      213: 4875973181165554033
+    second: EarthHandle_00064
+  - first:
+      213: -375728897708826248
+    second: EarthHandle_00065
+  - first:
+      213: -6910914563909757206
+    second: EarthHandle_00066
+  - first:
+      213: 5079772232424323206
+    second: EarthHandle_00067
+  - first:
+      213: 5184241542338969178
+    second: EarthHandle_00068
+  - first:
+      213: 1045383940797470423
+    second: EarthHandle_00069
+  - first:
+      213: 5875152975561646481
+    second: EarthHandle_00070
+  - first:
+      213: -1893745355721839788
+    second: EarthHandle_00071
+  - first:
+      213: -3376195644651670282
+    second: EarthHandle_00072
+  - first:
+      213: -477673084036932637
+    second: EarthHandle_00073
+  - first:
+      213: -3735383947907556580
+    second: EarthHandle_00074
+  - first:
+      213: -780934303980878079
+    second: EarthHandle_00075
+  - first:
+      213: -1470994377827436360
+    second: EarthHandle_00076
+  - first:
+      213: 9201202674099443118
+    second: EarthHandle_00077
+  - first:
+      213: -7875948838624485025
+    second: EarthHandle_00078
+  - first:
+      213: -6318466819206948672
+    second: EarthHandle_00079
+  - first:
+      213: -8227666859232000786
+    second: EarthHandle_00080
+  - first:
+      213: 1428366482439215546
+    second: EarthHandle_00081
+  - first:
+      213: 5749742221869977789
+    second: EarthHandle_00082
+  - first:
+      213: -7487011304264267566
+    second: EarthHandle_00083
+  - first:
+      213: 904093144591937024
+    second: EarthHandle_00084
+  - first:
+      213: 2527491415690282733
+    second: EarthHandle_00085
+  - first:
+      213: -678545624982065375
+    second: EarthHandle_00086
+  - first:
+      213: 7418356868968307460
+    second: EarthHandle_00087
+  - first:
+      213: 1778906256884542736
+    second: EarthHandle_00088
+  - first:
+      213: 2107335318605242459
+    second: EarthHandle_00089
+  - first:
+      213: 5107001841147673838
+    second: EarthHandle_00090
+  - first:
+      213: 3231670257064888734
+    second: EarthHandle_00091
+  - first:
+      213: 2713835139532913073
+    second: EarthHandle_00092
+  - first:
+      213: -3481100588240158503
+    second: EarthHandle_00093
+  - first:
+      213: 8976602866998414675
+    second: EarthHandle_00094
+  - first:
+      213: 7098248426567679483
+    second: EarthHandle_00095
+  - first:
+      213: -8937485433369985591
+    second: EarthHandle_00096
+  - first:
+      213: 7896868318871223214
+    second: EarthHandle_00097
+  - first:
+      213: -4658321122315524346
+    second: EarthHandle_00098
+  - first:
+      213: -2234460536755635367
+    second: EarthHandle_00099
+  - first:
+      213: 5149966005823224245
+    second: EarthHandle_00100
+  - first:
+      213: 1822710883734890719
+    second: EarthHandle_00101
+  - first:
+      213: 4051731074541605462
+    second: EarthHandle_00102
+  - first:
+      213: -4035186343478590963
+    second: EarthHandle_00103
+  - first:
+      213: -7611391677251639202
+    second: EarthHandle_00104
+  - first:
+      213: -7477635402946742498
+    second: EarthHandle_00105
+  - first:
+      213: -8432752149603527592
+    second: EarthHandle_00106
+  - first:
+      213: -8021968548640140019
+    second: EarthHandle_00107
+  - first:
+      213: -658494364874924034
+    second: EarthHandle_00108
+  - first:
+      213: -6799646565285204214
+    second: EarthHandle_00109
+  - first:
+      213: -7109742950255087590
+    second: EarthHandle_00110
+  - first:
+      213: -7013639722063600917
+    second: EarthHandle_00111
+  - first:
+      213: -8073039165234487540
+    second: EarthHandle_00112
+  - first:
+      213: 5500215942962862346
+    second: EarthHandle_00113
+  - first:
+      213: -987588744230993845
+    second: EarthHandle_00114
+  - first:
+      213: -9097076472563538814
+    second: EarthHandle_00115
+  - first:
+      213: 3756973055252962613
+    second: EarthHandle_00116
+  - first:
+      213: 6615873922830687709
+    second: EarthHandle_00117
+  - first:
+      213: -3237930527121443195
+    second: EarthHandle_00118
+  - first:
+      213: 7289468512259976939
+    second: EarthHandle_00119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthHandle_00000
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1846
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f8063b1d4ae2e0800000000000000
+      internalID: -2095777897321532074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00001
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1796
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746ef09ef6de01370800000000000000
+      internalID: 8291387978896369223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00002
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1747
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e70bdabe39bce0800000000000000
+      internalID: -1389010037807521288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00003
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1747
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09666ee619b3c18c0800000000000000
+      internalID: -4027278470959176048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48ac806d3c0f4b10800000000000000
+      internalID: 1967805019936565324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00005
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e4d4b3b014f9860800000000000000
+      internalID: 7538815817736867331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00006
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1796
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178eec7c802f3a9e0800000000000000
+      internalID: -1611178122142619535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0b0ae3263677f10800000000000000
+      internalID: 2267390211012997374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00008
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf381d9679612110800000000000000
+      internalID: 1234383731038896095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00009
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1845
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c916a07da5a7b50800000000000000
+      internalID: 6591680884248779809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ccf7235ff5b3f0800000000000000
+      internalID: -885521019090188153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00011
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1998
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dce1618d8d20750800000000000000
+      internalID: 6269812053848804712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00012
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1998
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb108a09fdd9170800000000000000
+      internalID: 8186945510016400519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00013
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1746
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85db9cf9d626e4f00800000000000000
+      internalID: 1102927181724106072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00014
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1649
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6854262efb944cbb0800000000000000
+      internalID: -4916723804696066682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00015
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa85347933f81800800000000000000
+      internalID: 583483579832830634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1600
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a60c18fb7c1ed350800000000000000
+      internalID: 6043299068746925736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00017
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1600
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0397a5dd2c18bc60800000000000000
+      internalID: 7834042534994613006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00018
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b4f7a212baec7a0800000000000000
+      internalID: -6354953865237935238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00019
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1601
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b604ee6557f5be490800000000000000
+      internalID: -7715968578994945941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00020
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b4e5b8cb8ca5610800000000000000
+      internalID: 1610820528855993116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1552
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeb02fb85ede9340800000000000000
+      internalID: 4872576319606537966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00022
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1552
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8a916baf7a56660800000000000000
+      internalID: 7378488259755223212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00023
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a661d4fc04822ef60800000000000000
+      internalID: 8062050541767562858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00024
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1553
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eb9a3099dda4cd0800000000000000
+      internalID: -2573000587827626366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00025
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1947
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e18e0859e06f76e0800000000000000
+      internalID: -1837643567622880796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00026
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1947
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e854abdee2fa1ee20800000000000000
+      internalID: 3378173811596346766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00027
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeb770d184d18a50800000000000000
+      internalID: 6521727389422567082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00028
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1795
+        width: 200
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef428127c003b0900800000000000000
+      internalID: 651667401097094398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00029
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc35771d218fb31d0800000000000000
+      internalID: -3369827136449326132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d1a6d85fea03530800000000000000
+      internalID: 3832755652555054469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00031
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b223aa4e57a1b7b0800000000000000
+      internalID: -5210199270469983565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00032
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1946
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402335cc775e0a570800000000000000
+      internalID: 8476026801403146756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0186b2db1b47daf00800000000000000
+      internalID: 1129687388271634448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00034
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c2abc074af9d4d0800000000000000
+      internalID: -3109178884659467261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00035
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1504
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e275aa18bd0e550800000000000000
+      internalID: 6188187237962165838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00036
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1504
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348418b29be408a50800000000000000
+      internalID: 6521298817638287427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00037
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7d354aee819e3f0800000000000000
+      internalID: -871137639681239117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00038
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1505
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242fe2995e0e0b840800000000000000
+      internalID: 5237933643354010178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00039
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15333e7257f78d780800000000000000
+      internalID: -8658030142462676143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00040
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1698
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf83d4ea28f98630800000000000000
+      internalID: 3929945012968853427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00041
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1456
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef98f1797e074610800000000000000
+      internalID: 1605267706946822113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00042
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1698
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20631cf490e844220800000000000000
+      internalID: 2469254666349786626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00043
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9ace3cd6c27a40800000000000000
+      internalID: 5364568755400252389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00044
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 881
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728b8aa4488c3b740800000000000000
+      internalID: 5166693668037900327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00045
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 882
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b07ae9c3ef997d90800000000000000
+      internalID: -7099467536878899016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00046
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1456
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108ff857613f156a0800000000000000
+      internalID: -6462116712512751615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00047
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e4427f4b380e1e0800000000000000
+      internalID: -2170590207128875455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00048
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3535b5b9bfbaad0800000000000000
+      internalID: -2689779707753049102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00049
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1457
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84eaaf1f46df7e0800000000000000
+      internalID: -1730115691384780625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00050
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1699cd8e77c0fc1b0800000000000000
+      internalID: -5634270899669788319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00051
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1697
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47596d775d0837e80800000000000000
+      internalID: -8182054443675118220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00052
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1408
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49856a0adff5b600800000000000000
+      internalID: 483573846954576206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00053
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1896
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bd65596c244fe10800000000000000
+      internalID: 2230481136131693396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00054
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1997
+        width: 200
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f05a69306ad4380800000000000000
+      internalID: -8985343147191759092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00055
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1896
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2614f2b0f2f934c30800000000000000
+      internalID: 4342489490115215714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00056
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279922fffcb40a550800000000000000
+      internalID: 6170014846208350578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00057
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f47e46cb734ba0800000000000000
+      internalID: -6105900578134233067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00058
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1895
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c38b8e27fab2f90800000000000000
+      internalID: -6977290289614930832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00059
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1845
+        width: 200
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac984fab3915fb610800000000000000
+      internalID: 1639118484324780490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00060
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1408
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe6d4feaa816f840800000000000000
+      internalID: 5257416737439968955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00061
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc4c9787a59a3180800000000000000
+      internalID: -9134824347400385329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00062
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1409
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92941591c3ac428b0800000000000000
+      internalID: -5177791312097621719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00063
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240751242b3e0e690800000000000000
+      internalID: -7574804218484789182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00064
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1360
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17944b536cfeaa340800000000000000
+      internalID: 4875973181165554033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00065
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1360
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8716738ee8429caf0800000000000000
+      internalID: -375728897708826248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00066
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6d519d1df7710a0800000000000000
+      internalID: -6910914563909757206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00067
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1361
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6887b8d7ee9fe7640800000000000000
+      internalID: 5079772232424323206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00068
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5effe8273022f740800000000000000
+      internalID: 5184241542338969178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00069
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1312
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6912dc723f18e00800000000000000
+      internalID: 1045383940797470423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00070
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1312
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1916e6dd08cb88150800000000000000
+      internalID: 5875152975561646481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00071
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b6729e1a018b5e0800000000000000
+      internalID: -1893745355721839788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00072
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1313
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4f054f2f75521d0800000000000000
+      internalID: -3376195644651670282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00073
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb96336cd6fe59f0800000000000000
+      internalID: -477673084036932637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00074
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1264
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b164d1710492cc0800000000000000
+      internalID: -3735383947907556580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00075
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1264
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1078d4a53609925f0800000000000000
+      internalID: -780934303980878079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00076
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8bff2386af59be0800000000000000
+      internalID: -1470994377827436360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00077
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1265
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea55210051d31bf70800000000000000
+      internalID: 9201202674099443118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00078
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5123a4824203b290800000000000000
+      internalID: -7875948838624485025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00079
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1216
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8d31497eb4058a0800000000000000
+      internalID: -6318466819206948672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00080
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee40935659471dd80800000000000000
+      internalID: -8227666859232000786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00081
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab91dda7fb392d310800000000000000
+      internalID: 1428366482439215546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00082
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1217
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db010ac56103bcf40800000000000000
+      internalID: 5749742221869977789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00083
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d88efbf2eac81890800000000000000
+      internalID: -7487011304264267566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00084
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1168
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ea447ccebfb8c00800000000000000
+      internalID: 904093144591937024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00085
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1168
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de681152d04731320800000000000000
+      internalID: 2527491415690282733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00086
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f6c0369525596f0800000000000000
+      internalID: -678545624982065375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00087
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1169
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b5fe7a44c43f660800000000000000
+      internalID: 7418356868968307460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00088
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01da25ac0d1ffa810800000000000000
+      internalID: 1778906256884542736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00089
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1120
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50a910ae42ce3d10800000000000000
+      internalID: 2107335318605242459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00090
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1120
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec7fd0dd17bfd640800000000000000
+      internalID: 5107001841147673838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00091
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e994c870af239dc20800000000000000
+      internalID: 3231670257064888734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00092
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1121
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9f4de4eaa79a520800000000000000
+      internalID: 2713835139532913073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00093
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0ca8a6575a0bfc0800000000000000
+      internalID: -3481100588240158503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00094
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1072
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d81395fbc439c70800000000000000
+      internalID: 8976602866998414675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00095
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1072
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdba09f55b028260800000000000000
+      internalID: 7098248426567679483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00096
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdf0c6e95ca7f380800000000000000
+      internalID: -8937485433369985591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00097
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1073
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabfa5885ef479d60800000000000000
+      internalID: 7896868318871223214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00098
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6072faebe915a5fb0800000000000000
+      internalID: -4658321122315524346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00099
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1024
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b3d020bf99df0e0800000000000000
+      internalID: -2234460536755635367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1024
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b93e6eebca587740800000000000000
+      internalID: 5149966005823224245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00101
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8a14144e19b4910800000000000000
+      internalID: 1822710883734890719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00102
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1025
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652d67ff1f3aa3830800000000000000
+      internalID: 4051731074541605462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00103
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1649
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02837266632008c0800000000000000
+      internalID: -4035186343478590963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00104
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1649
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e582d0fa897ee5690800000000000000
+      internalID: -7611391677251639202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1648
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17797f183a1a3890800000000000000
+      internalID: -7477635402946742498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1648
+        width: 200
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85458fb3998d8fa80800000000000000
+      internalID: -8432752149603527592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00107
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05d2f27b1e3ca090800000000000000
+      internalID: -8021968548640140019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 976
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff980f2dde8cd6f0800000000000000
+      internalID: -658494364874924034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00109
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 976
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f68f5997dc2a1a0800000000000000
+      internalID: -6799646565285204214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00110
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1035bda47e155d90800000000000000
+      internalID: -7109742950255087590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00111
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 977
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be264d725db8aae90800000000000000
+      internalID: -7013639722063600917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00112
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fd16ae6adc6ff80800000000000000
+      internalID: -8073039165234487540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 928
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09dd3c3241b45c40800000000000000
+      internalID: 5500215942962862346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00114
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 928
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4000f305416b42f0800000000000000
+      internalID: -987588744230993845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00115
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28469468521b0c180800000000000000
+      internalID: -9097076472563538814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00116
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 929
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d1115a613732430800000000000000
+      internalID: 3756973055252962613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00117
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 881
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddd719c74e40db50800000000000000
+      internalID: 6615873922830687709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 880
+        width: 200
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5867883475f8013d0800000000000000
+      internalID: -3237930527121443195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthHandle_00119
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 882
+        width: 200
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beea6aa9df4692560800000000000000
+      internalID: 7289468512259976939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
