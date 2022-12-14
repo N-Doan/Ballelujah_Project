@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{008c9df0-e981-439e-acb4-828ab39ecb73}">
+		<property name="assetPath">
+			<value>NotEnoughEssense.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0187755102040816</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80af5bde-34eb-4c01-b5ca-af1dfbdbeb9e}</destination>
+		</relationship>
+	</object>
+</objects>

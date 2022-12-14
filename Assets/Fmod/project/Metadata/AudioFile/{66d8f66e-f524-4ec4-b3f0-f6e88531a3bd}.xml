@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{66d8f66e-f524-4ec4-b3f0-f6e88531a3bd}">
+		<property name="assetPath">
+			<value>pinballCollide.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0315624999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80af5bde-34eb-4c01-b5ca-af1dfbdbeb9e}</destination>
+		</relationship>
+	</object>
+</objects>

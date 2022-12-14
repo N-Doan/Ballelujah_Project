@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{d5112a4d-6e80-4f64-b700-216be1b75396}">
+		<property name="assetPath">
+			<value>BumperTower.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.44408163265306122</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{80af5bde-34eb-4c01-b5ca-af1dfbdbeb9e}</destination>
+		</relationship>
+	</object>
+</objects>
